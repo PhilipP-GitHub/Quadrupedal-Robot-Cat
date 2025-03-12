@@ -26,3 +26,6 @@ The following drivers needs to be developed
   - [ ] I2S Audio Amplifier (MAX98357)
   - [X] Capacitive Touch Sensors
   - [X] PID Control for servos
+  - [ ] IMU / Accelerometer (optional)(MPU6050)
+  - [ ] NRF24L01 Remote Control (NRF24L01)
+  - [ ] Wi-Fi access (ESP-01)
