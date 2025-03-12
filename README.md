@@ -8,6 +8,14 @@ A repo for a quadrupedal robot cat project. This project is under development.
   - I2S Microphone (SPH0645LM4H)
   - I2S Audio Amplifier (MAX98357)
   - Capacitive Touch Sensors
+  - IMU / Accelerometer (optional)(MPU6050)
+  - NRF24L01 Remote Control (NRF24L01)
+  - Wi-Fi access (ESP-01)
+
+# Remote Controller
+  - Joystick
+  - NRF24L01 Module
+  - IMU / Accelerometer (optional)(MPU6050)
 
 # TO-DO 
 The following drivers needs to be developed
