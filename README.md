@@ -34,9 +34,9 @@ The following drivers needs to be developed
 # Development Roadmap
 1. Develope all necessary mechanical components
 Progress:
-    - [X] Legs
-    - [ ] Back
-    - [ ] Neck & Head
+  - [X] Legs
+  - [ ] Back
+  - [ ] Neck & Head
     
 2. Develope the joint motor driver
 Progress:
