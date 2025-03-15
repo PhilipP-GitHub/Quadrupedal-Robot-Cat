@@ -30,6 +30,7 @@ The following drivers needs to be developed
   - [ ] IMU / Accelerometer (optional)(MPU6050)
   - [ ] NRF24L01 Remote Control (NRF24L01)
   - [ ] Wi-Fi access (ESP-01)
+  - [X] SD Card Driver
 
 # Development Roadmap
 1. Develope all necessary mechanical components
