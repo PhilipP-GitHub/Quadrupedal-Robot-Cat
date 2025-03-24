@@ -56,7 +56,7 @@ Progress:
   - [X] PWM generations (timers & PCA9685)
   - [X] PID Controls
   - [ ] NRF24L01 communciation
-  - [ ] SPI Display to display bitmaps
+  - [ ] LCD driver to display bitmaps (DMA)
   - [ ] I2S Speaker to play audio file
   - [ ] Distance sensors to read the distance
   - [ ] Leg trajectory planning
