@@ -36,7 +36,7 @@ The following drivers needs to be developed
 1. Develope all necessary mechanical components
 Progress:
   - [X] Legs
-  - [ ] Back
+  - [X] Back
   - [ ] Neck & Head
     
 2. Develope the joint motor driver
