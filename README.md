@@ -20,11 +20,11 @@ A repo for a quadrupedal robot cat project. This project is under development.
 
 # TO-DO 
 The following drivers needs to be developed
-  - [ ] Distance Sensors (VL53L0X)
+  - [X] Distance Sensors (VL53L0X)
   - [X] LCD Display (ILI9341)
   - [ ] 16 Channel PWM Controller (PCA9685)
-  - [ ] I2S Microphone (SPH0645LM4H)
-  - [ ] I2S Audio Amplifier (MAX98357)
+  - [ ] Analog Microphone
+  - [X] FSMC SRAM
   - [X] Capacitive Touch Sensors
   - [X] PID Control for servos
   - [ ] IMU / Accelerometer (optional)(MPU6050)
@@ -37,7 +37,7 @@ The following drivers needs to be developed
 Progress:
   - [X] Legs
   - [X] Back
-  - [ ] Neck & Head
+  - [X] Neck & Head
     
 2. Develope the joint motor driver
 Progress:
@@ -58,5 +58,5 @@ Progress:
   - [ ] NRF24L01 communciation
   - [ ] LCD driver to display bitmaps (DMA)
   - [ ] I2S Speaker to play audio file
-  - [ ] Distance sensors to read the distance
+  - [X] Distance sensors to read the distance
   - [ ] Leg trajectory planning
